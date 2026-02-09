@@ -1,0 +1,14 @@
+file_format: "2"
+id: dactyl_manuform_4x6
+name: Dactyl Manuform 4x6
+type: shield
+url: https://github.com/abstracthat/dactyl-manuform
+requires:
+  - pro_micro
+exposes:
+  - i2c_oled
+features:
+  - keys
+siblings:
+  - dactyl_manuform_4x6_left
+  - dactyl_manuform_4x6_right
