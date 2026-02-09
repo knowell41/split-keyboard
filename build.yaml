@@ -1,8 +1,7 @@
-# Dactyl Manuform 4x6 + 5 thumb keys per side
-# Based on Corne wiring with expanded thumb cluster
----
 include:
   - board: nice_nano_v2
     shield: dactyl_manuform_4x6_left
   - board: nice_nano_v2
     shield: dactyl_manuform_4x6_right
+  - board: nice_nano_v2
+    shield: settings_reset
