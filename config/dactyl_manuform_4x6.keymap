@@ -44,7 +44,7 @@
 // |      |  F1 | F3  | F5  |  F4 |  F5 |   | HOME| PGDN| PGUP| END |     |  =   |
 // |      |  F6 | F7  | F8  |  F9 |  F10|   | LFT | DWN |  UP | RGT |     |      |
 //        |  F11| F12 |     |     |     |   |     |     |     |     |     |
-                        bindings = 
+                        bindings = <
    &kp TILDE &kp N1  &kp N2  &kp N3 &kp N4 &kp N5    &kp N6   &kp N7    &kp N8    &kp N9    &kp N0   &kp DEL
    &trans    &kp F1  &kp F3  &kp F5 &kp F4 &kp F5    &kp HOME &kp PG_DN &kp PG_UP &kp END   &trans   &kp EQUAL
    &trans    &kp F6  &kp F7  &kp F8 &kp F9 &kp F10   &kp LEFT &kp DOWN  &kp UP    &kp RIGHT &trans   &trans
